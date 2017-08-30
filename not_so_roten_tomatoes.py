@@ -1,28 +1,3 @@
-# Movie-Trailer-Project
-
-A simple movie trailer website project for Udacity's full-stack [nanodegree program](https://www.udacity.com/nanodegree).
-This projects demonstrates the simple usage of classes in order to build a movie trailer website.
-
-
-## Table of contents
-
-- [Demo](#demo)
-- [Download](#download)
-- [Quick start](#quick-start)
-
-## Demo
-For a demo, click on <http://mvppoa.github.io/udacity-first-class-movie-trailer-project/fresh_tomatoes.html>!
-
-## Download
-The files for the project, may be [downloaded here](https://github.com/mvppoa/udacity-first-class-movie-trailer-project/archive/master.zip).
-
-## Quick Start
-
-After downloading the project files, a movie trailer page can be run not_so_roten_tomatoes.py
-(https://github.com/mvppoa/udacity-first-class-movie-trailer-project/blob/master/not_so_roten_tomatoes.py) in order
-to start load up a page with three movies. Alter the file to manipulate the page content.
-
-```
 from media.classification_enum import ClassificationEnum
 from media.movie import Movie
 from web_page.fresh_tomatoes import FreshTomatoes
@@ -61,6 +36,3 @@ movie_list.append(movie_kill_switch)
 
 fresh_tomatoes = FreshTomatoes()
 fresh_tomatoes.open_movies_page(movie_list)
-
-```
-
