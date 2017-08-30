@@ -6,7 +6,6 @@ This projects demonstrates the simple usage of classes in order to build a movie
 
 ## Table of contents
 
-- [Demo](#demo)
 - [Download](#download)
 - [Quick start](#quick-start)
 
