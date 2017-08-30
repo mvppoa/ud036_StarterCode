@@ -11,15 +11,15 @@ This projects demonstrates the simple usage of classes in order to build a movie
 - [Quick start](#quick-start)
 
 ## Demo
-For a demo, click on <http://mvppoa.github.io/udacity-first-class-movie-trailer-project/fresh_tomatoes.html>!
+For a demo, click on <http://mvppoa.github.io/ud036_StarterCode/fresh_tomatoes.html>!
 
 ## Download
-The files for the project, may be [downloaded here](https://github.com/mvppoa/udacity-first-class-movie-trailer-project/archive/master.zip).
+The files for the project, may be [downloaded here](https://github.com/mvppoa/ud036_StarterCode/archive/master.zip).
 
 ## Quick Start
 
 After downloading the project files, a movie trailer page can be run not_so_roten_tomatoes.py
-(https://github.com/mvppoa/udacity-first-class-movie-trailer-project/blob/master/not_so_roten_tomatoes.py) in order
+(https://github.com/mvppoa/ud036_StarterCode/blob/master/not_so_roten_tomatoes.py) in order
 to start load up a page with three movies. Alter the file to manipulate the page content.
 
 ```
