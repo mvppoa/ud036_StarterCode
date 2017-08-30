@@ -10,9 +10,6 @@ This projects demonstrates the simple usage of classes in order to build a movie
 - [Download](#download)
 - [Quick start](#quick-start)
 
-## Demo
-For a demo, click on <http://mvppoa.github.io/ud036_StarterCode/fresh_tomatoes.html>!
-
 ## Download
 The files for the project, may be [downloaded here](https://github.com/mvppoa/ud036_StarterCode/archive/master.zip).
 
