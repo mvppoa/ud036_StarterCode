@@ -14,9 +14,11 @@ The files for the project, may be [downloaded here](https://github.com/mvppoa/ud
 
 ## Quick Start
 
-After downloading the project files, a movie trailer page can be run not_so_roten_tomatoes.py
+After downloading the project files, a movie trailer page can be run using not_so_roten_tomatoes.py
 (https://github.com/mvppoa/ud036_StarterCode/blob/master/not_so_roten_tomatoes.py) in order
 to start load up a page with three movies. Alter the file to manipulate the page content.
+Be aware that this program was made using Python v3.6.2, so it will not work if you run it with
+v2.7.0
 
 ```
 from media.classification_enum import ClassificationEnum

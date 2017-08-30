@@ -6,7 +6,8 @@ from media.video import Video
 class Movie(Video):
     """This is a class containing movies"""
 
-    def __init__(self, title, duration, classification, storyline, poster_image_url, trailer_youtube_url):
+    def __init__(self, title, duration, classification,
+                 storyline, poster_image_url, trailer_youtube_url):
         super().__init__(title, duration, classification)
         self.storyline = storyline
         self.poster_image_url = poster_image_url
